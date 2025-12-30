@@ -15,12 +15,11 @@ The project demonstrates GUI design, event handling, and basic validation in Jav
 
 📸Output Screenshots
 
-Login Screen
-![Login Screen](OutputScreenshots/login_screen.png)
+>> Login Screen
+![Login Screen](src/loginform/OutputScreenshots/login_screen.png)
 
-### After Login
-![After Login](OutputScreenshots/after_login.png)
-
+>> After Login
+![After Login](src/loginform/OutputScreenshots/after_login.png)
 
 ▶ How to Run the Project
 1. Clone the repository
